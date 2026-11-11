@@ -33,17 +33,6 @@ Aqui você encontrará meus estudos, testes e projetos desenvolvidos durante min
 
 ---
 
-### 📊 GitHub Stats
-
-<div>
-  <a href="https://github.com/lucasmmorais8">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmmorais8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmmorais8&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
 ### 📫 Vamos nos conectar?
 
 Estou sempre aprendendo, criando e aberto a novas conexões.

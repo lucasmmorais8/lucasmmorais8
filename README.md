@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Morais! 👋
+# Olá, eu sou o Lucas Miranda! 👋
 
 Sou estudante de Desenvolvimento Full Stack, apaixonado por tecnologia, resolução de problemas e pela criação de soluções digitais.
 
